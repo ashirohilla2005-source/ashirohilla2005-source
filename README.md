@@ -8,4 +8,4 @@
 
 🛠️ **Tools & Technologies:** **KiCad · LTspice · Altium Designer · Arduino · Python · C · ESP32**
 
-📫 **Reach me:** **[LinkedIn](https://linkedin.com/in/ashi-rohilla-636457326) · [Email](mailto:ashirohilla2005@gmail.com)**
+📫 **Reach me:** [**ashirohilla2005@gmail.com**](ashirohilla2005@gmail.com) · [**LinkedIn**](https://linkedin.com/in/ashi-rohilla-636457326)
